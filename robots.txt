@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-
+Disallow: /feed/
+Disallow: /comments/feed
+Disallow: /*/feed/
+Disallow: /author
+Disallow: /trackback
+Disallow: /alltags/
+User-agent: BoardReader
+Disallow: /
